@@ -1,5 +1,5 @@
 ## The sky secret
-![NEW] (https://github.com/EmilianLim/The-sky-secret/edit/main/image.png)
+[![skysecret.png](https://i.postimg.cc/0NFZ1gvq/skysecret.png)](https://postimg.cc/jW6yyFC8)
 # Introduccion 
 **the sky secret** es una aventura donde el héroe tendrá que consultar al cielo para llegar al infierno y de esta manera poder darle fin a lo que atormenta a su pueblo, al no contar con la informacion necesaria tendra que tocar el cielo para preguntar a sus dioses por que los han abandonado.
 
